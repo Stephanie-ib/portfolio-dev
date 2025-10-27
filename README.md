@@ -3,7 +3,7 @@
 > 💖 Welcome to my little corner of the internet! 💖
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -53,7 +53,7 @@ Make sure you have these installed:
 
 1. **Clone this repo** 💾
    ```bash
-   git clone https://github.com/Stephanie-ib/portfolio.git
+   git clone https://github.com/Stephanie-ib/portfolio-dev.git
    cd portfolio
    ```
 

@@ -25,7 +25,12 @@ const HomeSection = () => {
   }, [texts.length]);
 
   const handleDownloadCV = () => {
-   url('/files/Stephanie-Ibrahim-CV.pdf');
+    const link = document.createElement('a');
+    link.href = '/files/Stephanie-Ibrahim-CV.pdf';
+    link.download = 'Stephanie-Ibrahim-CV.pdf';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   };
 
   return (
